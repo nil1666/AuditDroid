@@ -24,6 +24,9 @@ Project List & Description
 Members
 --------------------------
 owasp (www.owasp.org)
+
 marwell (www.marvell.com)
+
 mobisec lab (www.mobiseclab.org)
+
 huawei (www.huawei.com)

@@ -56,7 +56,7 @@ Members
 --------------------------
 owasp (www.owasp.org)
 
-marwell (www.marvell.com)
+marvell (www.marvell.com)
 
 mobisec lab (www.mobiseclab.org)
 

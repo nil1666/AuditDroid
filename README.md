@@ -19,7 +19,22 @@ Contributions will always be needed in order to keep this project moving at a pa
 
 Project List & Description
 --------------------------
-
+-Attack Window
+-AutoComplete TextView
+-Unsafe Cipher
+-Load Apk of Sdcard
+-Clipboard
+-DownloadManager
+-Command execute
+-Unsafe Https
+-Unsafe Log
+-OpenFileOutPut
+-OpenOrCreateDB
+-Unsafe Random Number
+-Sdcard Read
+-Sdcard Write
+-Unsafe SharedPreference
+-SQL Injection
 
 Members
 --------------------------

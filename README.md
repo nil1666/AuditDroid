@@ -51,6 +51,28 @@ Project List & Description
 
 -SQL Injection
 
+-Activity Export
+
+-Service Export
+
+-Receiver Export
+
+-Provider Export
+
+-Acitivity Hijacking
+
+-Broadcast Hijacking
+
+-Service Hijacking
+
+-PendingIntent
+
+-Backup
+
+-Debuggable
+
+-WebView
+
 
 Members
 --------------------------

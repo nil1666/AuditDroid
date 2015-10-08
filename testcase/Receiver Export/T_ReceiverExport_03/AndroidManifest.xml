@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="testcase.t_receiverexport_03"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+    <permission android:protectionLevel="dangerous" android:name="com.testcase.lowpermission"></permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="testcase.t_receiverexport_03.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <receiver android:name=".TestReceiver" android:exported="true" android:enabled="true" android:permission="com.testcase.lowpermission">
+            <intent-filter>
+                <action android:name="testcase.testAction"/>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

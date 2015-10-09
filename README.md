@@ -73,6 +73,23 @@ Project List & Description
 
 -WebView
 
+-WebView_FileAccess
+
+-WebView_savePassword
+
+
+Naming Rule
+--------------------------
+Every testcase is named as (T/F)_Catagory(_I/R)_Number
+
+T:the testcase should be reported as containing a bug or threat.
+
+F:the testcase should NOT be reported as containing a bug or threat.
+
+I:for interproceduration
+
+R:for Reflection
+
 
 Members
 --------------------------

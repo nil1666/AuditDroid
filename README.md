@@ -86,7 +86,7 @@ T:the testcase should be reported as containing a bug or threat.
 
 F:the testcase should NOT be reported as containing a bug or threat.
 
-I:for interproceduration
+I:for interprocedural
 
 R:for Reflection
 

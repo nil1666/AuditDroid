@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
 		try {
 			OutputStreamWriter os = null;
 			FileOutputStream fos = null;
-			String FILEPATH = Environment.getExternalStorageDirectory().getPath() + "/test/";
+			String FILEPATH = "/storage/sdcard1/test/";
 			fos = new FileOutputStream(FILEPATH + "OutputStreamWrite");
 			os = new OutputStreamWriter(fos, "UTF-8");
 			new BufferedWriter(os);

@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 
 		try {
 			FileWriter fw = null;
-			fw = new FileWriter("/sdcard/test/writeByFileWrite");
+			fw = new FileWriter("/mnt/sdcard/test/writeByFileWrite");
 			fw.write("FileWrite\n");
 			fw.close();
 		} catch (Exception e) {

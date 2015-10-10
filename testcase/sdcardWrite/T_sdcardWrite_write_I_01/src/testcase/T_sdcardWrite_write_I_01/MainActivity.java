@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		try {
-			String dirPath = Environment.getExternalStorageDirectory().getPath() + "/test/";
+			String dirPath =  "/sdcard0/test/";
 			if (Environment.MEDIA_MOUNTED.equals(Environment.getExternalStorageState())) {
 				File file = new File(dirPath + "bufferWritter");
 				FileWriter fileWritter = new FileWriter(file, true);

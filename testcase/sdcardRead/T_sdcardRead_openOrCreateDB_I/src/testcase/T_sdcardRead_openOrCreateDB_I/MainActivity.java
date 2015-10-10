@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
 
 	private void dataBase() {
 		try {
-			String dirPath = Environment.getExternalStorageDirectory().getPath() + "/test/";
+			String dirPath =  "/storage/sdcard1/test/";
 			SQLiteDatabase db = this.openOrCreateDatabase(dirPath + "contextWrapper", 3, null);
 			String sql = "select * from test";
 			String result = "";

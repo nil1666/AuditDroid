@@ -7,7 +7,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-	        ReadFromFile.readFileByChars("/sdcard/test");
+	        ReadFromFile.readFileByChars("/storage/sdcard0/test");
 	}
 }  
      

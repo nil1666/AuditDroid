@@ -13,8 +13,7 @@ public class MainActivity extends Activity {
 	}
 
 	private void dataBase() {
-		DatabaseHelper dbHelper = new DatabaseHelper(this, Environment.getExternalStorageDirectory().getPath()
-				+ "/test/dbHelper", 2);
+		DatabaseHelper dbHelper = new DatabaseHelper(this,"/storage/sdcard0/test/dbHelper", 2);
 		// 得到一个可写的SQLiteDatabase对象
 		SQLiteDatabase sqliteDatabase = dbHelper.getWritableDatabase();
 		String sql = "CREATE  TABLE test (_id INTEGER PRIMARY KEY , filename VARCHAR, data TEXT)";

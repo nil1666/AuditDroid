@@ -16,8 +16,7 @@ public class MainActivity extends Activity {
 
 	private void dataBase() {
 		try {
-			DatabaseHelper dbHelper = new DatabaseHelper(this, Environment.getExternalStorageDirectory()
-					.getPath() + "/test/dbHelper", 2);
+			DatabaseHelper dbHelper = new DatabaseHelper(this, "/mnt/sdcard/test/dbHelper", 2);
 			// 得到一个可写的SQLiteDatabase对象
 			SQLiteDatabase sqliteDatabase = dbHelper.getReadableDatabase();
 			String sql = "select * from tablename";

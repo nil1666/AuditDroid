@@ -12,7 +12,7 @@ There are several feature that greatly simplify usage within a training environm
 
 As the Android SDK introduces new features, the AuditDroid contributors will strive to implement up-to-date lessons that can educate developers and security testers on new security issues. The project currently provides coverage for most of the OWASP Top 10 Mobile Risks and also includes a bunch of other problems as well.
 
-In order to evaluate the ablility of vairous android security audit tools, AuditDroid is devised deliberately, including inter/inner-procedure, reflection etc. for the same problem.
+In order to evaluate the ablility of vairous android security audit tools, AuditDroid is devised deliberately, including inter/intra-procedure, reflection etc. for the same problem.
 
 Contributions will always be needed in order to keep this project moving at a pace that can support the seemingly endless new problems to tackle. If you are interested, please contact the project's leaders or send an email to lab.mobisec(at)gmail.com. We welcome code contributors, beta testers, new feature suggestions, and feedback always!
 

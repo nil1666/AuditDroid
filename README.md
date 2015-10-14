@@ -59,21 +59,21 @@ Every testcase is named as (T/F)_Catagory(_I/R)_Number
 Evaluation (2015/10/12)
 ==========
 
-product selected
+Product Selected
 ----------
 * jaq (http://jaq.alibaba.com/)
 * appscan (http://appscan.360.cn/)
 * kingkong (http://service.security.tencent.com/kingkong)
 * Mobei SCA (http://akana.wicp.net/android/)
 
-false negative
+Detection Rate
 ----------
 * jaq          4.69%
 * appscan      37.5%
 * kingkong     40%
 * Mobei SCA    100% 
 
-false positive
+False Positive
 ----------
 * jaq          3.6%
 * appscan      16%

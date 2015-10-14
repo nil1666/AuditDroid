@@ -95,7 +95,7 @@ Members
 --------------------------
 owasp (www.owasp.org)
 
-marvell (www.marvell.com)
+鲶鱼团队 (catfish team)
 
 mobisec lab (www.mobiseclab.org)
 

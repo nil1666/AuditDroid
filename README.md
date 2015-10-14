@@ -18,66 +18,66 @@ Contributions will always be needed in order to keep this project moving at a pa
 
 Project List & Description
 --------------------------
->-Attack Window 
->-AutoComplete TextView\<br>  
->-Unsafe Cipher\<br>  
->-Load Apk on Sdcard\<br>  
->-Clipboard\<br>  
->-DownloadManager\<br>  
->-Command execute\<br>  
->-Unsafe Https\<br>  
->-Unsafe Log\<br>  
->-OpenFileOutPut\<br>  
->-OpenOrCreateDB\<br>  
->-Unsafe Random Number\<br>  
->-Sdcard Read\<br>  
->-Sdcard Write\<br>  
->-Unsafe SharedPreference\<br>  
->-SQL Injection\<br>  
->-Activity Expose\<br>  
->-Service Expose\<br>  
->-Receiver Expose\<br>  
->-Provider Expose\<br>  
->-Acitivity Hijacking\<br>  
->-Broadcast Hijacking\<br>  
->-Service Hijacking\<br>  
->-PendingIntent\<br>  
->-Backup\<br>  
->-Debuggable\<br>  
->-WebView\<br>  
->-WebView_FileAccess\<br>  
->-WebView_savePassword\<br>  
+*-Attack Window
+*-AutoComplete TextView 
+*-Unsafe Cipher  
+*-Load Apk on Sdcard
+*-Clipboard  
+*-DownloadManager
+*-Command execute
+*-Unsafe Https
+*-Unsafe Log
+*-OpenFileOutPut
+*-OpenOrCreateDB 
+*-Unsafe Random Number
+*-Sdcard Read
+*-Sdcard Write
+*-Unsafe SharedPreference 
+*-SQL Injection
+*-Activity Expose
+*-Service Expose
+*-Receiver Expose
+*-Provider Expose
+*-Acitivity Hijacking
+*-Broadcast Hijacking
+*-Service Hijacking
+*-PendingIntent
+*-Backup
+*-Debuggable
+*-WebView
+*-WebView_FileAccess
+*-WebView_savePassword
 
 Naming Rule
 --------------------------
-Every testcase is named as (T/F)_Catagory(_I/R)_Number\<br>  
->T:the testcase should be reported as containing a bug or threat.\<br>  
->F:the testcase should NOT be reported as containing a bug or threat.\<br>  
->I:for interprocedural\<br>  
->R:for Reflection\<br>  
+Every testcase is named as (T/F)_Catagory(_I/R)_Number
+* T:the testcase should be reported as containing a bug or threat.
+* F:the testcase should NOT be reported as containing a bug or threat.
+* I:for interprocedural
+* R:for Reflection
 
 Evaluation (2015/10/12)
 --------------------------
->1. product selected\<br>  
->>jaq (http://jaq.alibaba.com/)\<br>  
->>appscan (http://appscan.360.cn/)\<br>  
->>kingkong (http://service.security.tencent.com/kingkong)\<br>  
->>Mobei SCA (http://akana.wicp.net/android/)\<br>  
->2. false negative\<br>  
->>jaq          4.69%\<br>  
->>appscan      37.5%\<br>  
->>kingkong     40%\<br>  
->>Mobei SCA    100%\<br>  
->3. false positive\<br>  
->>jaq          3.6%\<br>  
->>appscan      16%\<br>  
->>kingkong     1.8%\<br>  
->>Mobei SCA    0\<br>  
+1. product selected
+* jaq (http://jaq.alibaba.com/)
+* appscan (http://appscan.360.cn/)
+* kingkong (http://service.security.tencent.com/kingkong)
+* Mobei SCA (http://akana.wicp.net/android/)
+2. false negative
+* jaq          4.69%
+* appscan      37.5%
+* kingkong     40%
+* Mobei SCA    100% 
+3. false positive
+* jaq          3.6%
+* appscan      16%
+* kingkong     1.8%
+* Mobei SCA    0
 
 Members
 --------------------------
->owasp (www.owasp.org)\<br>  
->鲶鱼团队 (catfish team)\<br>  
->mobisec lab (www.mobiseclab.org)\<br>  
->huawei (www.huawei.com)\<br>  
->MSTG Team\<br>  
+* owasp (www.owasp.org)   
+* 鲶鱼团队 (catfish team)
+* mobisec lab (www.mobiseclab.org)
+* huawei (www.huawei.com)
+* MSTG Team

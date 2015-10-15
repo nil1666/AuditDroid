@@ -17,69 +17,6 @@ In order to evaluate the ablility of vairous android security audit tools, Audit
 Contributions will always be needed in order to keep this project moving at a pace that can support the seemingly endless new problems to tackle. If you are interested, please contact the project's leaders or send an email to lab.mobisec(at)gmail.com. We welcome code contributors, beta testers, new feature suggestions, and feedback always!
 
 Project List & Description
-<<<<<<< HEAD
---------------------------
--Attack Window
-
--AutoComplete TextView
-
--Unsafe Cipher
-
--Load Apk of Sdcard
-
--Clipboard
-
--DownloadManager
-
--Command execute
-
--Unsafe Https
-
--Unsafe Log
-
--OpenFileOutPut
-
--OpenOrCreateDB
-
--Unsafe Random Number
-
--Sdcard Read
-
--Sdcard Write
-
--Unsafe SharedPreference
-
--SQL Injection
-
--Activity Export
-
--Service Export
-
--Receiver Export
-
--Provider Export
-
--Acitivity Hijacking
-
--Broadcast Hijacking
-
--Service Hijacking
-
--PendingIntent
-
--Backup
-
--Debuggable
-
--WebView
-
--WebView_FileAccess
-
--WebView_savePassword
-
--DoS
-
-=======
 ==========
 * Attack Window
 * AutoComplete TextView 
@@ -110,7 +47,7 @@ Project List & Description
 * WebView
 * WebView_FileAccess
 * WebView_savePassword
->>>>>>> origin/master
+* DOS
 
 Naming Rule
 ==========

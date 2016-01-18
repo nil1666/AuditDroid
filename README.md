@@ -65,7 +65,7 @@ Product Selected
 * jaq (http://jaq.alibaba.com/)
 * appscan (http://appscan.360.cn/)
 * kingkong (http://service.security.tencent.com/kingkong)
-* Mobei SCA (http://akana.wicp.net/android/)
+* Mobei SCA (http://auditdroid.mobiseclab.org:8080/android/)
 
 Detection Rate
 ----------

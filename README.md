@@ -86,5 +86,4 @@ Members
 * owasp (www.owasp.org)   
 * 鲶鱼团队 (catfish team)
 * mobisec lab (www.mobiseclab.org)
-* huawei (www.huawei.com)
 * MSTG Team
